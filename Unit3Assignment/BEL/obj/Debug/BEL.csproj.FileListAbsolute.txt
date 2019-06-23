@@ -1,0 +1,6 @@
+C:\Users\John\source\repos\Unit3Assignment\BEL\bin\Debug\BEL.dll
+C:\Users\John\source\repos\Unit3Assignment\BEL\bin\Debug\BEL.pdb
+C:\Users\John\source\repos\Unit3Assignment\BEL\obj\Debug\BEL.csprojAssemblyReference.cache
+C:\Users\John\source\repos\Unit3Assignment\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\Unit3Assignment\BEL\obj\Debug\BEL.dll
+C:\Users\John\source\repos\Unit3Assignment\BEL\obj\Debug\BEL.pdb

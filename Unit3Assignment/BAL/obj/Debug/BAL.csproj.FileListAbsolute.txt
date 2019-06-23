@@ -1,0 +1,11 @@
+C:\Users\John\source\repos\Unit3Assignment\BAL\bin\Debug\BAL.dll
+C:\Users\John\source\repos\Unit3Assignment\BAL\bin\Debug\BAL.pdb
+C:\Users\John\source\repos\Unit3Assignment\BAL\bin\Debug\BEL.dll
+C:\Users\John\source\repos\Unit3Assignment\BAL\bin\Debug\DAL.dll
+C:\Users\John\source\repos\Unit3Assignment\BAL\bin\Debug\BEL.pdb
+C:\Users\John\source\repos\Unit3Assignment\BAL\bin\Debug\DAL.pdb
+C:\Users\John\source\repos\Unit3Assignment\BAL\obj\Debug\BAL.csprojAssemblyReference.cache
+C:\Users\John\source\repos\Unit3Assignment\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\Unit3Assignment\BAL\obj\Debug\BAL.csproj.CopyComplete
+C:\Users\John\source\repos\Unit3Assignment\BAL\obj\Debug\BAL.dll
+C:\Users\John\source\repos\Unit3Assignment\BAL\obj\Debug\BAL.pdb
